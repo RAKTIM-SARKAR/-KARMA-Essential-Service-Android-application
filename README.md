@@ -14,13 +14,24 @@ since sometimes the rate set by the company doesn’t benefit the serviceprovide
 
 # Objective
 
-Hospital management system is all about the modernizing a hospital through use of
-technology. Computers helps in it and take over the manual system for quick and easy
-functioning. This hospital management system is a quite the reliable and is proven on
-many stages. All the basic requirements of the hospital are provided in the hospital in
-order to manage it perfectly and large amount of data can also be stored. It gives many
-facilities like searching for the detail of patient, billing facilities as . So it’s a important
-system for modern days.
+
+On a daily basis, we have a lot of household work/chores that we are unable to perform
+them due to various reasons.
+Some of the reasons are: -
+• Busy work life
+• Lack of skills required
+• Physical disability
+• Save time for other works
+There are also a lot of workers and specialized skilled people who are unemployed due to a
+lack of vacancies in various companies and industries. To overcome this problem, we want
+to provide a platform where various workers/skilled people will register asservice providers,
+allowing them to get more customers than the conventionalmethod. And on the other hand,
+the service being provided to the customers will also make their life easier and solve the
+problems mentioned earlier.
+Some of the main objectives are given below:
+• To enable customers to get quick and efficient services at home.
+• According to the feedback, the profiles of the service provider will be listed.
+
 
 No need to visit or make a call to the hospital for appointment.
 • Online booking of appointment with doctors.
